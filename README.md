@@ -1,1 +1,1 @@
-# html-css-js
+# Frontend разработка. Основная ветка main. Дополнительные ветки: html, css, js.
