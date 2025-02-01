@@ -126,3 +126,35 @@ th, td {
   display: inline-block;
   margin: 50px 0px;
 }
+
+/* CSS для 4-го модуля */
+
+.modules-container {
+  width: 1920px;
+  margin: 0 auto;
+}
+
+.ul1,
+.ul2,
+.ul3,
+.ul4 {
+  display: inline-block;
+  margin-right: 40px;
+  height: 600px;
+}
+
+.button {
+  text-align: center;}
+
+button {
+  width: 200px;
+  height: 70px;
+  border: 2px solid blue;
+  color: #2f1ce4;
+}
+
+.footer {
+  background-image: url(../img/site2.jpeg);
+  background-position-y: bottom;
+  background-repeat: no-repeat;
+}
